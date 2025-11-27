@@ -4,7 +4,7 @@ Este projeto foi criado com o objetivo de explorar visualizações mais trabalha
 
 Através do uso do pacote RColorBrewer, boxplots, histogramas e gráficos de barras ganham uma identidade visual mais profissional — o que contribui diretamente para interpretações mais rápidas e convincentes.
 
-Objetivo do Projeto:
+<h1>Objetivo do Projeto:</h1>
 
 O foco desta análise é unir exploração de dados com visualizações impactantes, destacando:
 
@@ -18,7 +18,7 @@ Destaque para municípios que mais gastam proporcionalmente ao próprio PIB
 
 Ou seja: transformar dados brutos em gráficos expressivos, acessíveis e visualmente fortes.
 
-O Que Foi Feito:
+<h1>O Que Foi Feito:</h1>
 
 Importação e leitura do dataset dados.csv
 
@@ -34,7 +34,7 @@ Geração de gráficos comparativos com legendas, cores temáticas e organizaç�
 
 Ênfase em tornar os gráficos mais bonitos e mais interpretáveis
 
-Tecnologias Utilizadas:
+<h1>Tecnologias Utilizadas:</h1>
 
 R
 
